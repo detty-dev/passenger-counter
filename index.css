@@ -1,0 +1,52 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body {
+    background-image: url("day.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+}
+.container {
+    max-width: 80%;
+    margin: auto;
+    color: #392482;
+    font-weight: bold;
+    background-color: #c48ee4;
+    border: 5px solid #392482;
+    border-radius: 5px;
+   
+}
+#count-el {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+#save-el {
+    font-size: 25px;
+}
+#add-el {
+    background-color: #392482;
+    color: white;
+    padding: 10px 12px;
+    border-radius: 2px;
+    border: none;
+    margin-bottom: 10px;
+}
+#save {
+    background-color:#392482;
+    color: white;
+    padding: 10px 12px;
+    border-radius: 2px;
+    border: none;
+    margin-bottom: 10px;
+}
